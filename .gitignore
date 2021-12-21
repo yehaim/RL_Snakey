@@ -1,0 +1,7 @@
+# gitkeep
+!*/.gitkeep
+
+# ignore
+*/__pycache__
+data/models/
+.idea
