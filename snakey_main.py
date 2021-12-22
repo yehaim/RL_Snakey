@@ -123,5 +123,4 @@ class SnakeyMainRecoder(object):
         SnakeyMainRecoder.play_game_auto(ppo)
 
 if __name__ == '__main__':
-    snake_main_recorder = SnakeyMainRecoder()
-    snake_main_recorder.inference_ppo()
+    SnakeyMainRecoder.inference_ppo()
